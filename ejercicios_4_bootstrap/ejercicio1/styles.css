@@ -1,0 +1,36 @@
+div [class *=col]{
+}
+
+body{
+	margin: 0 auto;
+	width: 600px;
+	margin-top: 10%;
+}
+
+.container{
+	text-align: center;
+	margin-top: 15%;
+}
+
+.h1{
+	background-color: #33bebe;
+	font-family: Arial;
+	color: #ffffff;
+	padding-top: 20px;
+	padding-left: 10px; 
+	text-align: left;
+	font-weight: 90;
+}
+
+.imagen{
+	margin-top: 20px;
+}
+
+.texto{
+	margin-top: 17px;
+	color: #7c8b88;
+	font-family: Arial;
+	text-align: left;
+	font-size: 15px;
+}
+

@@ -1,0 +1,51 @@
+div [class *=col]{
+}
+.container{
+	background-color: #e8e8e7;
+	text-align: center;
+	padding-top: 10px;
+	width: 878px;
+}
+
+.titulo{
+	width: 250px;
+	border: 2px solid #ffffff;
+	line-height: 40px;
+	position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    margin: 0 auto;
+    color: white;
+    font-weight: 900;
+    font-family: arial;
+}
+
+
+h1{
+	font-weight: bold;
+}
+
+
+.linea{
+	margin-top: 25px;
+	background-color: #8BCC98;
+	height: 10px;
+	width: 868px;
+	margin-bottom: 20px;
+}
+
+.contenido2{
+	padding: 10px 10px;
+	background-color: white;
+	width: 450px;
+	margin: 0 auto;
+	text-align: left;
+
+}
+
+.imagen{
+	display:block;
+	margin-left: auto;
+  	margin-right: auto;
+}
